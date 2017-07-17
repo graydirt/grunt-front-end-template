@@ -24,12 +24,12 @@ go to the root directory where the template is cloned.
 └── src
     └── data
     └── public
-         └── _components
-         └── _favicons
-         └── _images
-         └── _scripts 
-         └── _styles 
-         └── _videos 
+         └── components
+         └── favicons
+         └── images
+         └── scripts 
+         └── styles 
+         └── videos 
     └── views
          └── _layouts
          └── _partials
