@@ -8,6 +8,7 @@ grunt compiled bootstrap sass and js with hbs template.
 you can download or skip the following if you already have.
 - [node.js](http://nodejs.org/) <br>
 - [grunt.js](http://gruntjs.com/) <br>
+- [bower](https://bower.io/) <br>
 - [ruby](http://rubyinstaller.org/) <br>
 - [compass](http://compass-style.org/install/) <br>
 
