@@ -1,0 +1,42 @@
+[
+	{
+		"id": "mi-qld",
+		"name" : "Moreton Island",
+		"shortName" : "moreton-island",
+		"description": "",
+		"location": "Queensland",
+		"shortLocation": "QLD",
+		"price": 300,
+		"inclusions": ["inc-1","inc-2","inc-3","inc-4"]
+	},
+	{
+		"id": "lsd-wa",
+		"name" : "Lancelin Sand Dunes",
+		"shortName" : "lancelin-sand-dunes",
+		"description": "The Lancelin Sand Dunes one day experience to be held on the {{date}} will offer keen Isuzu 4x4 drivers an opportunity to gain an understanding of their vehicles when challenged by the ever changing, sandy horizons of Lancelin Dunes. Don't be fooled by their beauty, the dunes are a wide, unpredictable playground for all 4WDs.",
+		"location": "Western Australia",
+		"shortLocation": "WA",
+		"price": 300,
+		"inclusions": ["inc-1","inc-2","inc-3","inc-4"]
+	},
+	{
+		"id": "ri-nsw",
+		"name" : "River Island",
+		"shortName": "river-island",
+		"description": "",
+		"location": "New South Wales",
+		"shortLocation": "NSW",
+		"price": 300,
+		"inclusions": ["inc-1","inc-2","inc-3","inc-4"]
+	},
+	{
+		"id": "mtpg-vic",
+		"name" : "Melbourne - 4x4 Training and Proving Ground",
+		"shortName": "melbourne-4x4",
+		"description": "",
+		"location": "Victoria",
+		"shortLocation": "VIC",
+		"price": 300,
+		"inclusions": ["inc-1","inc-2","inc-3","inc-4"]
+	}
+]
