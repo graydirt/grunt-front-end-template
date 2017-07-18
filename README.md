@@ -65,6 +65,7 @@ all the components that you needed on this project. you can add additional scss 
 ### grunt tasks:<br>
 cmd or right click in your directory and select 'git bash here' then type <strong>npm run dev</strong> to compile and run your project.
 
+| tasks  | description |
 | ------------- | ------------- |
 | npm install  | this command installs a package, and any packages that it depends on. |
 | bower install  | this command installs a package, and any packages that it depends on.  |
