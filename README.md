@@ -60,12 +60,12 @@ you can add data or array contents(optional).<br><br>
 all the components that you needed on this project. you can add additional scss inside folder 'pages' and add it on '_bootstrap.scss' below.<br><br>
 
 ### grunt tasks:<br>
-cmd or right click in your directory and select 'git bash here' then type <strong>npm run dev</strong> to compile your project.
+cmd or right click in your directory and select 'git bash here' then type <strong>npm run dev</strong> to compile and run your project.
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| npm install  | this command installs a package, and any packages that it depends on. |
+| bower install  | this command installs a package, and any packages that it depends on.  |
+| npm run dev  | for compiling and running the project.  |
+| bower install sampleFile(bootstrap) --save | to install the bootstrap into the dependencies using bower.  |
+| npm install sampleFile(bootstrap)--save-dev | to install the bootstrap into the dependencies using npm.  |
 
-to be continued...
