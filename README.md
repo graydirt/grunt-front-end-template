@@ -36,9 +36,11 @@ go to the root directory where the template is cloned.
          └── _partials
          └── _pages
 </code></pre>
+
 <strong>basic usage:</strong><br>
 <strong>----views</strong><br>
 <strong>'layouts'</strong> folder you will find the default.hbs for header and footer and also the otherTemplate.hbs in case that if you need the different header and footer in the other pages.<br><br>
+
 <strong>'partials'</strong> folder you will find the globalfooter and globalheader and again in case that if you need the different header and footer in the other pages you can create another header and footer in this folder.<br>
      <strong>how it works</strong><br>
      default.hbs:<br>
@@ -48,10 +50,15 @@ go to the root directory where the template is cloned.
      otherTemplate.hbs can use other global header and footer that you created.<br>
      {{> your_other_global_header }}<br>
      {{> your_other_global_footer}}<br><br>
+     
 <strong>'pages'</strong> folder consists all of the pages/body contents that you need in your project, you can add, edit and delete.<br>
-{{>body}}
+{{>body}}<br><br>
+<strong>----data</strong><br>
+you can data or array contents(optional).<br><br>
 
-
+<strong>----public</strong><br>
+all the components that you needed on this project.
+you can add additional scss inside folder 'pages' and add it on '_bootstrap.scss' below.
 
 
 
