@@ -54,14 +54,13 @@ go to the root directory where the template is cloned.
 <strong>'pages'</strong> folder consists all of the pages/body contents that you need in your project, you can add, edit and delete.<br>
 {{>body}}<br><br>
 <strong>----data</strong><br>
-you can data or array contents(optional).<br><br>
+you can add data or array contents(optional).<br><br>
 
 <strong>----public</strong><br>
-all the components that you needed on this project.
-you can add additional scss inside folder 'pages' and add it on '_bootstrap.scss' below.
+all the components that you needed on this project. you can add additional scss inside folder 'pages' and add it on '_bootstrap.scss' below.<br><br>
 
-
-
+### grunt tasks:<br>
+cmd or right click in your directory and select 'git bash here' then type <strong>npm run dev</strong> to compile your project.
 
 
 | First Header  | Second Header |
