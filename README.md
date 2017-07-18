@@ -37,7 +37,7 @@ check your gruntfile.js and bower.json
     └── views
          └── _layouts
          └── _partials
-         └── _pages
+         └── _pages (create this folder for your additional scss file)
 </code></pre>
 
 <strong>basic usage:</strong><br>
