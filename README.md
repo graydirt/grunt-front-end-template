@@ -21,7 +21,7 @@ go to the root directory where the template is cloned.
 </ol>
 
 ### Dependencies:<br>
-check your gtunrfile.js and bower.json
+check your gruntfile.js and bower.json
 
 ### Directory Structure:<br>
 <pre><code>
