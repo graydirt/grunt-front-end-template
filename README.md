@@ -38,8 +38,8 @@ go to the root directory where the template is cloned.
 </code></pre>
 <strong>basic usage:</strong><br>
 <strong>----views</strong><br>
-<strong>'layouts'</strong> folder you will find the default.hbs for header and footer and also the otherTemplate.hbs in the case that if you need the different header and footer in the other pages.<br><br>
-<strong>'partials'</strong> folder you will find the globalfooter and globalheader and again in the case that if you need the different header and footer in the other pages you can create another header and footer in this folder.<br>
+<strong>'layouts'</strong> folder you will find the default.hbs for header and footer and also the otherTemplate.hbs in the that if you need the different header and footer in the other pages.<br><br>
+<strong>'partials'</strong> folder you will find the globalfooter and globalheader and again in case that if you need the different header and footer in the other pages you can create another header and footer in this folder.<br>
      <strong>how it works</strong><br>
      default.hbs:<br>
      -uses global_footer.hbs and global_header.hbs<br>
