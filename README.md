@@ -73,5 +73,5 @@ run <strong>npm run build</strong> to build your project, and the 'dist' will be
 | npm run dev  | for compiling and running the project.  |
 | npm run build  | (dist) this is your upload folder.  |
 | bower install sampleFile(bootstrap) --save | to install the bootstrap into the dependencies using bower.  |
-| npm install sampleFile(bootstrap)--save-dev | to install the bootstrap into the dependencies using npm.  |
+| npm install sampleFile(bootstrap) --save-dev | to install the bootstrap into the dependencies using npm.  |
 
