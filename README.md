@@ -63,7 +63,7 @@ you can add data or array contents(optional).<br><br>
 where you will find all the components that you need on this project. you can add additional scss on 'pages' folder  and add it on '_bootstrap.scss' below.<br><br>
 
 ### grunt tasks:<br>
-cmd or right click in your directory and select 'git bash here' then type <strong>npm run dev</strong> to compile and run your project.
+run the cmd or right click in your directory and select 'git bash here' then type <strong>npm run dev</strong> to compile and run your project.
 run <strong>npm run build</strong> to build your project, and the 'dist' will be your upload folder.
 
 | tasks  | description |
