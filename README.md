@@ -37,7 +37,7 @@ check your gruntfile.js and bower.json
     └── views
          └── _layouts
          └── _partials
-         └── _pages (create this folder for your additional scss file)
+         └── pages
 </code></pre>
 
 <strong>basic usage:</strong><br>
@@ -60,6 +60,7 @@ check your gruntfile.js and bower.json
 you can add data or array contents(optional).<br><br>
 
 <strong>----public</strong><br>
+components > bootstrap-sass > assets > stylesheets > pages
 where you will find all the components that you need on this project. you can add additional scss on 'pages' folder  and add it on '_bootstrap.scss' below.<br><br>
 
 ### grunt tasks:<br>
