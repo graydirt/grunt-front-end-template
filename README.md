@@ -42,9 +42,9 @@ check your gruntfile.js and bower.json
 
 <strong>basic usage:</strong><br>
 <strong>----views</strong><br>
-<strong>'layouts'</strong> folder where you will find the default.hbs for header and footer and also the otherTemplate.hbs in case that if you need the different header and footer in the other pages.<br><br>
+<strong>'layouts'</strong> folder, where you will find the default.hbs for header and footer and also the otherTemplate.hbs in case you need a different header and footer on the other pages.<br><br>
 
-<strong>'partials'</strong> folder where you will find the globalfooter and globalheader and again in case that if you need the different header and footer in the other pages you can create another header and footer in this folder.<br>
+<strong>'partials'</strong> folder, where you will find the globalfooter and globalheader and again in case you need a different header and footer, this is also where you can can create a new header and footer.<br>
      <strong>how it works</strong><br>
      default.hbs:<br>
      -uses global_footer.hbs and global_header.hbs<br>
