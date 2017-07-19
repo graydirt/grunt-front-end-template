@@ -60,7 +60,7 @@ check your gruntfile.js and bower.json
 you can add data or array contents(optional).<br><br>
 
 <strong>----public</strong><br>
-components > bootstrap-sass > assets > stylesheets > pages
+components > bootstrap-sass > assets > stylesheets > pages<br>
 where you will find all the components that you need on this project. you can add additional scss on 'pages' folder  and add it on '_bootstrap.scss' below.<br><br>
 
 ### grunt tasks:<br>
