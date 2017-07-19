@@ -108,6 +108,14 @@ module.exports = function(grunt) {
           dest: DESTINATION_PATH
         }]
       },
+      favicons: {
+        files: [{
+          expand: true,
+          cwd: 'src',
+          src: 'public/favicons/**/*',
+          dest: DESTINATION_PATH
+        }]
+      },
       //styles: {
        // files: [{
        //   expand: true,
